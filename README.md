@@ -1,0 +1,9 @@
+-----------
+
+***WELCOME TO MUZAMIL-ZAKHMI-MD PLUGINS LIST CREATED BY MRMUZAMIL597***
+
+-----------
+
+***THE WORLD BEST WHATSAPP BOT***
+
+----------
