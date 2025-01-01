@@ -7,7 +7,7 @@
 
 ----------
 
-<a><img src='https://i.ibb.co/9N1sJ41/Manul-Ofc-X.gif'/></a>
+<a><img src='https://i.ibb.co/tctZ73z/Manul-Ofc-X.jpg'/></a>
 
 -------
 
