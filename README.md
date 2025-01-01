@@ -43,7 +43,7 @@
 ---------------
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=MUZAMIL%20MD%20V2&description=🪀THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20MR%20MUZAMIL♥️&image=https://i.ibb.co/tctZ73z/Manul-Ofc-X.jpg?v=4&backgroundColor=%23ecf0f1&github=MRMUZAMUL50&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=MUZAMIL%20MD%20V2&description=🪀THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20MR%20MUZAMIL♥️&image=https://i.ibb.co/wwkxCP7/Manul-Ofc-X.jpg?v=4&backgroundColor=%23ecf0f1&github=MRMUZAMUL50&pattern=leaf&colorPattern=%23eaeaea"/>
 
 ------------------
 
