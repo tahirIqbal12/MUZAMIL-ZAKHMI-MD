@@ -1,6 +1,6 @@
 ---------
          🎉𝗛𝗔𝗣𝗣𝗬 𝗡𝗘𝗪 𝗬𝗘𝗔𝗥🎉
-                                             👑𝗠𝙍 𝙈𝙐𝙕𝘼𝙈𝙄𝙇👑
+                                            👑𝗠𝙍 𝙈𝙐𝙕𝘼𝙈𝙄𝙇👑
 ----------
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+TO+FORK+MYrepo;CREATED+BY+MR MUZAMIL;RELEASED+20.12.2024" alt="Typing SVG" /></a>
@@ -43,7 +43,7 @@
 ---------------
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=MUZAMIL%20MD%20V2&description=🪀THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20MR%20MUZAMIL♥️&image=https://i.ibb.co/wwkxCP7/Manul-Ofc-X.jpg?v=4&backgroundColor=%23ecf0f1&github=MRMUZAMUL50&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=MUZAMIL%20MD%20V2&description=🪀THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20MR%20MUZAMIL♥️&image=https://i.ibb.co/tctZ73z/Manul-Ofc-X.jpg?v=4&backgroundColor=%23ecf0f1&github=MRMUZAMUL50&pattern=leaf&colorPattern=%23eaeaea"/>
 
 ------------------
 
