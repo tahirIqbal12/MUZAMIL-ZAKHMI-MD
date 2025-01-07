@@ -1,4 +1,4 @@
-// code by ⿻ ⌜ 𝙎𝙃𝘼𝘽𝘼𝙉 ⌟⿻⃮͛🇵🇰𖤐
+// code by ⿻ ⌜ 𝙈𝙐𝙕𝘼𝙈𝙄𝙇 ⌟⿻⃮͛🇵🇰𖤐
 
 const axios = require("axios");
 const config = require('../config');
