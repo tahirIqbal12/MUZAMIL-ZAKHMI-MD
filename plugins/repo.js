@@ -31,7 +31,7 @@ https://github.com/MRMUZAMIL50/MUZAMIL-ZAKHMI-MD`;
                 forwardingScore: 999, 
                 isForwarded: true, 
                 forwardedNewsletterMessageInfo: { 
-                    newsletterJid: '120363358310754973@newsletter', 
+                    newsletterJid: '120363297843078852@newsletter', 
                     newsletterName: 'Mʀ-Mᴜᴢᴀᴍɪʟ', 
                     serverMessageId: 143 
                 } 
@@ -48,7 +48,7 @@ https://github.com/MRMUZAMIL50/MUZAMIL-ZAKHMI-MD`;
                 forwardingScore: 999, 
                 isForwarded: true, 
                 forwardedNewsletterMessageInfo: { 
-                    newsletterJid: '120363358310754973@newsletter', 
+                    newsletterJid: '120363297843078852@newsletter', 
                     newsletterName: 'Mʀ-Mᴜᴢᴀᴍɪʟ', 
                     serverMessageId: 143 
                 } 
