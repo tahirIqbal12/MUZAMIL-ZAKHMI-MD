@@ -4,7 +4,7 @@
 
 ----------
 
-<a><img src='https://i.ibb.co/hdNwpzC/temp-image.jpg'/></a>
+<a><img src='https://i.ibb.co/ZJwzVrG/temp-image.jpg'/></a>
 
 -------
 
@@ -80,7 +80,7 @@
 
 📢 𝘼𝙇𝙇 𝙊𝙁 𝙔𝙊𝙐𝙍 𝙉𝙀𝙀𝘿𝙎 𝙄𝙉 𝙊𝙉𝙀 𝘽𝙊𝙏
 
-[![Get Session ID 1 Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://pairmuzammil-48b0aade054c.herokuapp.com/)
+[![Get Session ID 1 Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://muzamilmegapair-1da0dbec6e71.herokuapp.com/)
 
  [![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/MRMUZAMIL50/MUZAMIL-ZAKHMI-MD)
 
@@ -134,7 +134,7 @@ jobs:
 -------------
 
 <p align="center">
-   <a href="https://youtu.be/xxw7uG5Xb6M?si=cwdTifhYH5INDSFD"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+   <a href=""><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
     </a>
 </p>
 
