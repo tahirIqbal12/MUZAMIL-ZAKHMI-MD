@@ -44,7 +44,7 @@
 <a href="https://github.com/MRMUZAMIL50/MUZAMIL-ZAKHMI-MD/fork"><img title="MUZAMIL-ZAKHMI-MD" src="https://img.shields.io/badge/FORK-MUZAMIL ZAKHMI MD-h?color=green&style=for-the-badge&logo=stackshare"></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘)](https://git.io/typing-svg)
-[![Get Session ID 1 Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://muzamil-md-59a1a1742e57.herokuapp.com/)
+[![Get Session ID 1 Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://muzamilmegapair-1da0dbec6e71.herokuapp.com/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨)](https://git.io/typing-svg)
  [![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/MRMUZAMIL50/MUZAMIL-ZAKHMI-MD)
